@@ -54,13 +54,13 @@
 }
 
 .resultado{
-    padding-left: 15px;
+    padding-left: 20px;
     width: 500px;
     height: 150px;
     color: white;
     flex-direction: column;
     margin-top: 30px;
-    padding-top: 10px;
+    padding-top: 20px;
     background: #7c0f0f;
     border-radius: 15px;
     gap: 15px;
